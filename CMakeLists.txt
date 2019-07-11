@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(Astar)
+set (CMAKE_BUILD_TYPE "Debug")
+add_executable(Astar main.cpp )
+#add_library(hello libHelloSLAM.cpp)
+#target_link_libraries(HelloSlam hello)

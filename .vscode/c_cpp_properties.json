@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW64",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "E:/MinGW/mingw64/bin/g++.exe",
+            "includePath": [
+                "${workspaceFolder}"
+                
+            ],
+            "cppStandard": "c++17",
+            "configurationProvider": "vector-of-bool.cmake-tools"
+        }
+    ],
+    "version": 4
+}
